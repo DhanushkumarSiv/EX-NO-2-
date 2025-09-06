@@ -259,3 +259,7 @@ int main()
 
 <img width="798" height="251" alt="image" src="https://github.com/user-attachments/assets/c98ea6b4-07ac-4c5a-9c74-3eecd2842d62" />
 
+## RESULT :
+
+The program implementing the PlayFair cipher for encryption and decryption has been successfully executed, and the results have been verified
+
